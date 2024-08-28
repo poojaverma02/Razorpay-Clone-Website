@@ -1,0 +1,1 @@
+This is clone of razorpay using tailwind css.
